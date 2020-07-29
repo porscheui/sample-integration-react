@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sample-integration-react/static/css/main.7d8fbaee.chunk.css",
-    "main.js": "/sample-integration-react/static/js/main.b6f09f87.chunk.js",
-    "main.js.map": "/sample-integration-react/static/js/main.b6f09f87.chunk.js.map",
+    "main.js": "/sample-integration-react/static/js/main.3a2e8105.chunk.js",
+    "main.js.map": "/sample-integration-react/static/js/main.3a2e8105.chunk.js.map",
     "polyfills-css-shim.js": "/sample-integration-react/static/js/polyfills-css-shim.b6191f57.chunk.js",
     "polyfills-css-shim.js.map": "/sample-integration-react/static/js/polyfills-css-shim.b6191f57.chunk.js.map",
     "runtime-main.js": "/sample-integration-react/static/js/runtime-main.325317a0.js",
     "runtime-main.js.map": "/sample-integration-react/static/js/runtime-main.325317a0.js.map",
-    "static/js/3.f413a5f0.chunk.js": "/sample-integration-react/static/js/3.f413a5f0.chunk.js",
-    "static/js/3.f413a5f0.chunk.js.map": "/sample-integration-react/static/js/3.f413a5f0.chunk.js.map",
+    "static/js/3.adbc5d52.chunk.js": "/sample-integration-react/static/js/3.adbc5d52.chunk.js",
+    "static/js/3.adbc5d52.chunk.js.map": "/sample-integration-react/static/js/3.adbc5d52.chunk.js.map",
     "static/js/4.d9c5214d.chunk.js": "/sample-integration-react/static/js/4.d9c5214d.chunk.js",
     "static/js/4.d9c5214d.chunk.js.map": "/sample-integration-react/static/js/4.d9c5214d.chunk.js.map",
     "static/js/5.1f5385bc.chunk.js": "/sample-integration-react/static/js/5.1f5385bc.chunk.js",
@@ -68,7 +68,7 @@
     "static/js/32.852d34d5.chunk.js": "/sample-integration-react/static/js/32.852d34d5.chunk.js",
     "static/js/32.852d34d5.chunk.js.map": "/sample-integration-react/static/js/32.852d34d5.chunk.js.map",
     "index.html": "/sample-integration-react/index.html",
-    "precache-manifest.9a6ce7a962261d5e6c9ad8c1426be810.js": "/sample-integration-react/precache-manifest.9a6ce7a962261d5e6c9ad8c1426be810.js",
+    "precache-manifest.167fc0d1767b288ea77e0ae5366da0d3.js": "/sample-integration-react/precache-manifest.167fc0d1767b288ea77e0ae5366da0d3.js",
     "service-worker.js": "/sample-integration-react/service-worker.js",
     "static/css/main.7d8fbaee.chunk.css.map": "/sample-integration-react/static/css/main.7d8fbaee.chunk.css.map",
     "static/js/10.4104db48.chunk.js.LICENSE.txt": "/sample-integration-react/static/js/10.4104db48.chunk.js.LICENSE.txt",
@@ -90,7 +90,7 @@
     "static/js/26.acf20540.chunk.js.LICENSE.txt": "/sample-integration-react/static/js/26.acf20540.chunk.js.LICENSE.txt",
     "static/js/27.3d0f6b4a.chunk.js.LICENSE.txt": "/sample-integration-react/static/js/27.3d0f6b4a.chunk.js.LICENSE.txt",
     "static/js/28.cde00ce2.chunk.js.LICENSE.txt": "/sample-integration-react/static/js/28.cde00ce2.chunk.js.LICENSE.txt",
-    "static/js/3.f413a5f0.chunk.js.LICENSE.txt": "/sample-integration-react/static/js/3.f413a5f0.chunk.js.LICENSE.txt",
+    "static/js/3.adbc5d52.chunk.js.LICENSE.txt": "/sample-integration-react/static/js/3.adbc5d52.chunk.js.LICENSE.txt",
     "static/js/30.f590ef82.chunk.js.LICENSE.txt": "/sample-integration-react/static/js/30.f590ef82.chunk.js.LICENSE.txt",
     "static/js/31.335907d4.chunk.js.LICENSE.txt": "/sample-integration-react/static/js/31.335907d4.chunk.js.LICENSE.txt",
     "static/js/32.852d34d5.chunk.js.LICENSE.txt": "/sample-integration-react/static/js/32.852d34d5.chunk.js.LICENSE.txt",
@@ -103,8 +103,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.325317a0.js",
-    "static/js/3.f413a5f0.chunk.js",
+    "static/js/3.adbc5d52.chunk.js",
     "static/css/main.7d8fbaee.chunk.css",
-    "static/js/main.b6f09f87.chunk.js"
+    "static/js/main.3a2e8105.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4174324e004419d59d1571eb5c1ddcb5",
+    "revision": "d01b628feff2986436354cf808b998e7",
     "url": "/sample-integration-react/index.html"
   },
   {
-    "revision": "f83545489712774b2c4d",
+    "revision": "6d87cd24c10a9169b1c1",
     "url": "/sample-integration-react/static/css/main.7d8fbaee.chunk.css"
   },
   {
@@ -164,12 +164,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sample-integration-react/static/js/29.cd2d073a.chunk.js"
   },
   {
-    "revision": "e8278f7bba43a1e1f82a",
-    "url": "/sample-integration-react/static/js/3.f413a5f0.chunk.js"
+    "revision": "799d48f2fcf2dd86b906",
+    "url": "/sample-integration-react/static/js/3.adbc5d52.chunk.js"
   },
   {
     "revision": "957d7402727b192d629865a574b0511b",
-    "url": "/sample-integration-react/static/js/3.f413a5f0.chunk.js.LICENSE.txt"
+    "url": "/sample-integration-react/static/js/3.adbc5d52.chunk.js.LICENSE.txt"
   },
   {
     "revision": "3199a4159a83c33a40d1",
@@ -244,8 +244,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sample-integration-react/static/js/9.61e6b1fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f83545489712774b2c4d",
-    "url": "/sample-integration-react/static/js/main.b6f09f87.chunk.js"
+    "revision": "6d87cd24c10a9169b1c1",
+    "url": "/sample-integration-react/static/js/main.3a2e8105.chunk.js"
   },
   {
     "revision": "6921d588216799555e54",
