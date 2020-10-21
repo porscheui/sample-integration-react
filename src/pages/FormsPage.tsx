@@ -1,15 +1,16 @@
 import React, { ChangeEvent, FormEvent, useState } from 'react';
-import {
+import { PFlex, PFlexItem } from '@porsche-design-system/components-react';
+import { PorscheDesignSystemSomePrefixComponents } from '../components';
+
+const {
   PCheckboxWrapper,
   PDivider,
-  PFlex,
-  PFlexItem,
   PHeadline,
   PRadioButtonWrapper,
   PSelectWrapper,
   PTextareaWrapper,
   PTextFieldWrapper,
-} from '@porsche-design-system/components-react';
+} = PorscheDesignSystemSomePrefixComponents;
 
 export const FormsPage = (): JSX.Element => {
   const [select, setSelect] = useState('Change this Headline by selecting');

@@ -1,5 +1,7 @@
 import React from 'react';
-import { PButton, PIcon, PLinkPure } from '@porsche-design-system/components-react';
+import { PorscheDesignSystemMyPrefixComponents } from '../components';
+
+const { PButton, PIcon, PLinkPure } = PorscheDesignSystemMyPrefixComponents;
 
 export const PhnHeaderPage = (): JSX.Element => (
   <>

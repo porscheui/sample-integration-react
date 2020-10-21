@@ -1,17 +1,18 @@
 import React, { useState } from 'react';
-import {
+import { PorscheDesignSystemMyPrefixComponents } from '../components';
+import {PGrid, PGridItem} from '@porsche-design-system/components-react';
+
+const {
   PButton,
   PButtonPure,
   PDivider,
-  PGrid,
-  PGridItem,
   PHeadline,
   PIcon,
   PLink,
   PLinkPure,
   PPagination,
   PSpinner,
-} from '@porsche-design-system/components-react';
+} = PorscheDesignSystemMyPrefixComponents;
 
 export const CollectionPage = (): JSX.Element => {
   const [showHeadline, setShowHeadline] = useState(false);
