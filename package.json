@@ -4,10 +4,10 @@
   "private": true,
   "homepage": "https://porscheui.github.io/sample-integration-react",
   "dependencies": {
-    "@porsche-design-system/components-react": "2.0.0-alpha.4",
+    "@porsche-design-system/components-react": "2.0.0-alpha.5",
     "@porsche-design-system/partials": "2.0.0",
     "@porsche-design-system/utilities": "2.0.0",
-    "@porschehn/navigation": "^1.2.1",
+    "@porschehn/navigation": "file:./porschehn-navigation-with-pds-alpha-prefix.tgz",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-app-polyfill": "^1.0.6",
