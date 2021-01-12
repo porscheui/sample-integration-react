@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/sample-integration-react/static/css/main.3e52d8e2.chunk.css",
+    "main.css": "/sample-integration-react/static/css/main.41a645f6.chunk.css",
     "main.js": "/sample-integration-react/static/js/main.22589689.chunk.js",
     "main.js.map": "/sample-integration-react/static/js/main.22589689.chunk.js.map",
     "polyfills-css-shim.js": "/sample-integration-react/static/js/polyfills-css-shim.42299a94.chunk.js",
     "polyfills-css-shim.js.map": "/sample-integration-react/static/js/polyfills-css-shim.42299a94.chunk.js.map",
     "runtime-main.js": "/sample-integration-react/static/js/runtime-main.7104d710.js",
     "runtime-main.js.map": "/sample-integration-react/static/js/runtime-main.7104d710.js.map",
-    "static/js/3.777942f1.chunk.js": "/sample-integration-react/static/js/3.777942f1.chunk.js",
-    "static/js/3.777942f1.chunk.js.map": "/sample-integration-react/static/js/3.777942f1.chunk.js.map",
+    "static/js/3.a5678276.chunk.js": "/sample-integration-react/static/js/3.a5678276.chunk.js",
+    "static/js/3.a5678276.chunk.js.map": "/sample-integration-react/static/js/3.a5678276.chunk.js.map",
     "static/js/4.8e1f0d2c.chunk.js": "/sample-integration-react/static/js/4.8e1f0d2c.chunk.js",
     "static/js/4.8e1f0d2c.chunk.js.map": "/sample-integration-react/static/js/4.8e1f0d2c.chunk.js.map",
     "static/js/5.5dafe5d7.chunk.js": "/sample-integration-react/static/js/5.5dafe5d7.chunk.js",
@@ -18,16 +18,16 @@
     "static/js/7.a939d800.chunk.js": "/sample-integration-react/static/js/7.a939d800.chunk.js",
     "static/js/7.a939d800.chunk.js.map": "/sample-integration-react/static/js/7.a939d800.chunk.js.map",
     "index.html": "/sample-integration-react/index.html",
-    "static/css/main.3e52d8e2.chunk.css.map": "/sample-integration-react/static/css/main.3e52d8e2.chunk.css.map",
-    "static/js/3.777942f1.chunk.js.LICENSE.txt": "/sample-integration-react/static/js/3.777942f1.chunk.js.LICENSE.txt",
+    "static/css/main.41a645f6.chunk.css.map": "/sample-integration-react/static/css/main.41a645f6.chunk.css.map",
+    "static/js/3.a5678276.chunk.js.LICENSE.txt": "/sample-integration-react/static/js/3.a5678276.chunk.js.LICENSE.txt",
     "static/js/4.8e1f0d2c.chunk.js.LICENSE.txt": "/sample-integration-react/static/js/4.8e1f0d2c.chunk.js.LICENSE.txt",
     "static/js/5.5dafe5d7.chunk.js.LICENSE.txt": "/sample-integration-react/static/js/5.5dafe5d7.chunk.js.LICENSE.txt",
     "static/js/6.dcc2d984.chunk.js.LICENSE.txt": "/sample-integration-react/static/js/6.dcc2d984.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7104d710.js",
-    "static/js/3.777942f1.chunk.js",
-    "static/css/main.3e52d8e2.chunk.css",
+    "static/js/3.a5678276.chunk.js",
+    "static/css/main.41a645f6.chunk.css",
     "static/js/main.22589689.chunk.js"
   ]
 }
